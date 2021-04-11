@@ -7,7 +7,7 @@
 import { Module } from '@nestjs/common';
 import { AppController } from './app.controller';
 import { CatsController } from './cat.controller';
-import { DogsController } from './dog.controller'
+import { DogsController } from './dog.controller';
 import { AppService } from './app.service';
 import { DogService } from './dog.service';
 
